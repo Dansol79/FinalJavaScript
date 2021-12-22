@@ -9,7 +9,7 @@ body {
     position: relative;
     min-height:100vh;
     margin: 0;
-    background-image: url(/images/bg-min.jpg);
+    background-image: url(../images/bg-min.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -208,7 +208,7 @@ img{
     
 } 
 .stylephoto{
-    background-image: url(/images/mujerpe-min.jpg);
+    background-image: url(../images/mujerpe-min.jpg);
     background-repeat:no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -358,7 +358,7 @@ section .title2{
 .photo__servicios{
     width: 100%;
     height: 500px;
-    background-image: url(/images/brazosnutri-min.jpg);
+    background-image: url(../images/brazosnutri-min.jpg);
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
@@ -574,7 +574,7 @@ span{
 .photoContacto{
     width: 100%;
     height: 400px;
-    background-image: url(/images/pr-5-min.jpg);
+    background-image: url(../images/pr-5-min.jpg);
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
