@@ -5,7 +5,7 @@
       "localidad": "Flores",
       "direccion": "Nazca 1324",
       "zona": "CABA",
-      "url": "/images/gim1.jpeg"
+      "url": "../images/gim1.jpeg"
     },
 
     {
@@ -13,21 +13,21 @@
       "localidad": "Congreso",
       "direccion": "Belgrano 1903",
       "zona": "CABA",
-      "url": "/images/gim2.jpg"
+      "url": "../images/gim2.jpg"
     },
     {
       "id": 3,
       "localidad": "Lanus Oeste",
       "direccion": "Moreno 423",
       "zona": "Sur",
-      "url": "/images/gim3.jpg"
+      "url": "../images/gim3.jpg"
     },
     {
       "id": 4,
       "localidad": "Monte Grande",
       "direccion": " Canarias 232",
       "zona": "Sur",
-      "url": "/images/gim4.jpg"
+      "url": "../images/gim4.jpg"
     }
   ],
   "equipo": [
@@ -35,31 +35,31 @@
       "id": 1,
       "nombre": "Sebastian Nemes",
       "area": "Profesor de Musculacion",
-      "url": "/images/sebastian-min.jpg"
+      "url": "../images/sebastian-min.jpg"
     },
     {
       "id": 2,
       "nombre": "Valeria Fernandez",
       "area": "Profesora de Spinning",
-      "url": "/images/valeria-min.jpeg"
+      "url": "../images/valeria-min.jpeg"
     },
     {
       "id": 3,
       "nombre": "Nadia Jerez",
       "area": "Profesora de Pilates",
-      "url": "/images/Nadia-min.jpg"
+      "url": "../images/Nadia-min.jpg"
     },
     {
       "id": 4,
       "nombre": "Dan Molina",
       "area": "Profesor de Yoga",
-      "url": "/images/dan (2)-min.jpg"
+      "url": "../images/dan (2)-min.jpg"
     },
     {
       "id": 5,
       "nombre": "Laura Starone",
       "area": "Personal trainer",
-      "url": "/images/laura-min.jpg"
+      "url": "../images/laura-min.jpg"
     },
     {
       "id": 6,
